@@ -29,14 +29,14 @@ img {
     max-width: 100%;
     height: auto;
     width: auto;
-    object-fit: none;
+    object-fit: contain;
 }
 
 img.profile-pic {
-	height: 70%;
-	width: 70%;
-	object-fit: none;
-	border-radius: 10%;
+	height: 30%;
+	width: 30%;
+	object-fit: cover;
+	border-radius: 50%;
 }
 
 .container {
@@ -123,15 +123,15 @@ img.profile-pic {
 }
 
 .banner {
-	height: 80%;   <-- 30% -->
+	height: 30%;
 }
 
 .primary-info {
-	height: 20%;   <-- 15% -->
+	height: 15%;
 }
 
 .secondary-info {
-	height: 20%;    <-- 8% -->
+	height: 8%;
 }
 
 .bg-color-grey {
