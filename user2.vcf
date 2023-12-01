@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Barletta;Sebastian;;;
-FN: Sebastian Barletta
-ORG:Vitas Healthcare;
-TITLE:Manager, Financial Planning & Analysis
-EMAIL;type=INTERNET;type=WORK;type=pref:sebastian.barletta@vitas.com
-TEL;type=WORK;type=VOICE:+13056099390
-item1.ADR;type=WORK;type=pref:;;3046 Corporate Way, Miramar, FL
+N:Sanchez;Adriana;;;
+FN: Adriana Sanchez
+ORG:Arca Group with Engel & Völker Miami;
+TITLE:Real Estate Advisor
+EMAIL;type=INTERNET;type=WORK;type=pref:adrianasanchezq.re@gmail.com
+TEL;type=WORK;type=VOICE:+13054573239
+item1.ADR;type=WORK;type=pref:;;1717 N Bayshore Dr, Suite 111, Miami, FL
 item1.X-ABADR:sg
-item2.URL;type=pref:vitas.com
+item2.URL;type=pref:miami.evrealestate.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
