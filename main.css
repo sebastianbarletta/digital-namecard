@@ -39,6 +39,13 @@ img.profile-pic {
 	border-radius: 50%;
 }
 
+img.background-pic {
+  position: absolute;
+  top: 30px;
+  left: 30px;
+  border: 1px solid #000000;
+}
+
 .container {
 	margin: 0 auto;
 	position: relative;
