@@ -32,6 +32,12 @@ img {
     object-fit: contain;
 }
 
+.parent {
+        position: relative;
+        top: 0;
+        left: 0;
+ }
+
 img.background-pic {
   position: relative;
   top: 0;
