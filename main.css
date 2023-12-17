@@ -40,11 +40,12 @@ img.background-pic {
 }
 
 img.profile-pic {
-	position: absolute;
-	height: 30%;
-	width: 30%;
-	object-fit: cover;
-	border-radius: 50%;
+  position: absolute;
+  height: 30%;
+  width: 30%;
+  top: 20px;
+  left: 50px;
+  
 }
 
 .container {
