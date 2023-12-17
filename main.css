@@ -31,16 +31,15 @@ img.background-pic {
   position: absolute;
   top: 0;
   left: 0;
-  border: 1px solid #000000;
+  border: 2px solid #000000;
 }
 
 img.profile-pic {
   position: absolute;
-  height: 40%;
-  width: 40%;
   top: 10px;
   left: 10px;
-  
+  height: 40%;
+  width: 40%;    
 }
 
 .container {
