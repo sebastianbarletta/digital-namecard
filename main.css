@@ -36,10 +36,10 @@ img.background-pic {
 
 img.profile-pic {
   position: absolute;
-  height: 30%;
-  width: 30%;
+  height: 40%;
+  width: 40%;
   top: 10px;
-  left: 1px;
+  left: 10px;
   
 }
 
