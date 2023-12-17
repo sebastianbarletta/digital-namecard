@@ -32,18 +32,19 @@ img {
     object-fit: contain;
 }
 
+img.background-pic {
+  position: relative;
+  top: 0;
+  left: 0;
+  border: 1px solid #000000;
+}
+
 img.profile-pic {
+	position: absolute;
 	height: 30%;
 	width: 30%;
 	object-fit: cover;
 	border-radius: 50%;
-}
-
-img.background-pic {
-  position: absolute;
-  top: 1px;
-  left: 1px;
-  border: 1px solid #000000;
 }
 
 .container {
